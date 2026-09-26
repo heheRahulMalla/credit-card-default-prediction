@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/*.csv
+results/eda_report.html
+.DS_Store

@@ -1,0 +1,11 @@
+model,mean_recall,std_recall
+LR,0.612,0.015
+DT3,0.684,0.024
+DT5,0.629,0.011
+DT9,0.629,0.025
+Random Forest,0.639,0.014
+Linear SVM,0.361,0.015
+RBF SVM,0.607,0.018
+LDA,0.399,0.018
+QDA,0.62,0.017
+XGBoost,0.361,0.014
